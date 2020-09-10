@@ -1,2 +1,2 @@
 # AnalogClock By Java Script
-visit app [here](http://danstrong.tech/js-analog-clock/)
+visit app [here](https://akshatrastogi25.github.io/AnalogClock/)
